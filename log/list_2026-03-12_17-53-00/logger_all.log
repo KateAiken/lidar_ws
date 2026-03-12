@@ -1,0 +1,56 @@
+[2.010s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/kate/lidar_ws']
+[2.016s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/kate/lidar_ws'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0xffff94fdc0a0>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0xffff94f96f50>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0xffff94f96f50>>, mixin_verb=('list',))
+[5.129s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[5.130s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[5.130s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[5.130s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[5.131s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[5.131s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/kate/lidar_ws'
+[5.133s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extensions ['ignore', 'ignore_ament_install']
+[5.134s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extension 'ignore'
+[5.135s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extension 'ignore_ament_install'
+[5.136s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extensions ['colcon_pkg']
+[5.137s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extension 'colcon_pkg'
+[5.138s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extensions ['colcon_meta']
+[5.139s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extension 'colcon_meta'
+[5.140s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extensions ['ros']
+[5.141s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extension 'ros'
+[5.230s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extensions ['cmake', 'python']
+[5.231s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extension 'cmake'
+[5.232s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extension 'python'
+[5.233s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extensions ['python_setup_py']
+[5.234s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws) by extension 'python_setup_py'
+[5.236s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/build) by extensions ['ignore', 'ignore_ament_install']
+[5.238s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/build) by extension 'ignore'
+[5.239s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/build) ignored
+[5.241s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/install) by extensions ['ignore', 'ignore_ament_install']
+[5.242s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/install) by extension 'ignore'
+[5.244s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/install) ignored
+[5.246s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/log) by extensions ['ignore', 'ignore_ament_install']
+[5.247s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/log) by extension 'ignore'
+[5.248s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/log) ignored
+[5.250s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extensions ['ignore', 'ignore_ament_install']
+[5.251s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extension 'ignore'
+[5.252s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extension 'ignore_ament_install'
+[5.254s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extensions ['colcon_pkg']
+[5.254s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extension 'colcon_pkg'
+[5.255s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extensions ['colcon_meta']
+[5.256s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extension 'colcon_meta'
+[5.257s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extensions ['ros']
+[5.258s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extension 'ros'
+[5.260s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extensions ['cmake', 'python']
+[5.261s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extension 'cmake'
+[5.262s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extension 'python'
+[5.263s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extensions ['python_setup_py']
+[5.264s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src) by extension 'python_setup_py'
+[5.266s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extensions ['ignore', 'ignore_ament_install']
+[5.267s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extension 'ignore'
+[5.269s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extension 'ignore_ament_install'
+[5.270s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extensions ['colcon_pkg']
+[5.271s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extension 'colcon_pkg'
+[5.272s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extensions ['colcon_meta']
+[5.273s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extension 'colcon_meta'
+[5.274s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extensions ['ros']
+[5.275s] Level 1:colcon.colcon_core.package_identification:_identify(/home/kate/lidar_ws/src/rplidar_ros) by extension 'ros'
+[5.292s] DEBUG:colcon.colcon_core.package_identification:Package '/home/kate/lidar_ws/src/rplidar_ros' with type 'ros.ament_cmake' and name 'rplidar_ros'
+[5.293s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
