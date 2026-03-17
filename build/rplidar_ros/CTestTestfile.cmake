@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/kate/lidar_ws/src/rplidar_ros
-# Build directory: /home/kate/lidar_ws/build/rplidar_ros
+# Source directory: /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros
+# Build directory: /home/kate/ros_workspaces/lidar_ws/build/rplidar_ros
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

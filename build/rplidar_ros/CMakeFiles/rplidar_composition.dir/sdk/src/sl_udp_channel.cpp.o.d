@@ -1,7 +1,7 @@
 CMakeFiles/rplidar_composition.dir/sdk/src/sl_udp_channel.cpp.o: \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/src/sl_udp_channel.cpp \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/src/sl_udp_channel.cpp \
  /usr/include/stdc-predef.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_driver.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_driver.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/aarch64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/11/bits/os_defines.h \
@@ -143,9 +143,9 @@ CMakeFiles/rplidar_composition.dir/sdk/src/sl_udp_channel.cpp.o: \
  /usr/include/aarch64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_cmd.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_protocol.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/include/sl_types.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/src/hal/abs_rxtx.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/src/hal/types.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/src/hal/socket.h
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_cmd.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_protocol.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/include/sl_types.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/src/hal/abs_rxtx.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/src/hal/types.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/src/hal/socket.h

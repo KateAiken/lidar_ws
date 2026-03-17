@@ -1,10 +1,10 @@
 CMakeFiles/rplidar_node.dir/sdk/src/sl_crc.cpp.o: \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/src/sl_crc.cpp \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/src/sl_crc.cpp \
  /usr/include/stdc-predef.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/include/sl_crc.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_cmd.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_protocol.h \
- /home/kate/lidar_ws/src/rplidar_ros/sdk/include/sl_types.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/include/sl_crc.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_cmd.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/include/sl_lidar_protocol.h \
+ /home/kate/ros_workspaces/lidar_ws/src/rplidar_ros/sdk/include/sl_types.h \
  /usr/include/c++/11/cstdint \
  /usr/include/aarch64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/aarch64-linux-gnu/c++/11/bits/os_defines.h \
