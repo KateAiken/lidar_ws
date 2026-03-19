@@ -5,8 +5,8 @@ from rclpy.node import Node
 from std_msgs.msg import Int32
 import pigpio
 
-SIGNAL_A = 16
-SIGNAL_B = 18
+SIGNAL_A = 17
+SIGNAL_B = 27
 
 encoder_ticks = 0
 

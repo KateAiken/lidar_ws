@@ -6,12 +6,12 @@ from std_msgs.msg import Int32
 import pigpio
 
 # Encoder 1 pins (BCM)
-ENC1_A = 11
-ENC1_B = 13
+ENC1_A = 23
+ENC1_B = 24
 
 # Encoder 2 pins (BCM)
-ENC2_A = 16
-ENC2_B = 18
+ENC2_A = 17
+ENC2_B = 27
 
 # Tick counters
 encoder1_ticks = 0
